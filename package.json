@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/WILLIAM326/miniVue/issues"
   },
-  "homepage": "https://github.com/WILLIAM326/miniVue#readme"
+  "homepage": "https://github.com/WILLIAM326/miniVue#readme",
+  "devDependencies": {
+    "less": "^3.8.1",
+    "less-loader": "^4.1.0"
+  }
 }
